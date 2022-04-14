@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.head {
+    margin-bottom: 20px;
+    padding: 0 10px;
+}
+
+.h1 {
+    color: #ffffff;
+    font-size: 26px;
+    padding: 0 10px;
+}
+
+.employee-label {
+    display: block;
+    height: 30px;
+    padding: 27px 10px;
+}
+
+.base-employee-form {
+    display: block;
+    height: 400px;
+    padding: 0 10px;
+}
+
+.btn-left {
+    display: inline-grid;
+    margin: 0 10px;
+}
+
+.editOrAdd {
+    font-size: 14px;
+    background-color: gray;
+    height: 30px;
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+    color: #ffffff;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.employee-btn {
+    display: inline-grid;
+    background-color: gray;
+    height: 30px;
+    width: 100px;
+    margin: 10px;
+    border: none;
+    border-radius: 10px;
+    color: #ffffff;
+}
+
+.btn-block {
+    display: flex;
+    justify-content: end;
+    margin: 1.5% 6.5%;
+}
+
+a{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
